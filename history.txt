@@ -1,0 +1,11 @@
+commit 135c4503030d6f47bc407c4c0cb328851d9d85dd
+Author: Mustafa Başdaş <86853973+n729207@users.noreply.github.com>
+Date:   Fri Jul 30 21:17:58 2021 +0200
+
+    ikinci commit mesajım
+
+commit e8916655075f89eebf210b698b3a7d1acd782b0d
+Author: Mustafa Başdaş <86853973+n729207@users.noreply.github.com>
+Date:   Fri Jul 30 21:10:49 2021 +0200
+
+    benim ilk kcommit mesajım
